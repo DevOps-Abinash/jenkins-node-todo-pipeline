@@ -130,6 +130,7 @@ Save
 In your project > Configure > Git > Use credential: ubuntu
 
 🔁 7. Enable Auto Deployment with GitHub Webhook
+
 ✅ Install GitHub Integration Plugin in Jenkins:
 Jenkins > Manage Jenkins > Plugin Manager > Available:
 
